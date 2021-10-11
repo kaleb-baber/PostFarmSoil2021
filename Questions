@@ -1,0 +1,31 @@
+# Questions
+
+## 1. What Licensing Agreement did you choose and why?
+
+I chose the Public Domain Mark (PD) because this is all quantitative data, so I cannot claim copyright on it and it belongs to the pubic domain.
+
+## 2. What are data archiving options are recommended by the Montana State University Library?
+
+The MSU library recommends general repositories such as Dryad and Zenodo, as well as discipline-specific repositories through PLOS and Scientific Data. 
+
+## 3. How would using GitHub help make your data/code align with FAIR Protocols?
+
+Using GitHub would help my data align with the all 4 of the protocols of FAIR data. It would clearly define the licensing associated with my data if others wanted to use it. It would be freely accessible to anyone who wants to view it. It would also allow readers of anything I publish to check my statistical methods if they choose to do so.
+
+## 4. What are the advantages of making your data/code more widely accessible?
+
+It adds transparency to your research. Additionally, it allows us to offer up our data to the broader scientific community so it can be used in meta-analyses. Bigger patterns may begin to emerge when more data is analyzed, and this can only be done if people make their data accessible to others.
+
+Additionally, sharing code could help a lot with collaborating with other researchers.
+
+## 5. What are the disadvantages of making your data/code more widely accessible?
+
+I could envision data being misused or used out of context. For example, part of the story of my project currently is that I have not seen any effect of inoculant type on N fixation for lentils or peas. However, both years of data had drier than average conditions and some fields had previously been inoculated years earlier, and this could impact results. If someone was to simply pull my data without the site-year specific knowledge for a meta-analysis, my data could lead them to some inaccurate conclusions.
+
+## 6. What data/code from your grad project would you envision publishing on GitHub?
+
+I would envision publishing data for the response variables, of which I have six. I would also publish all soil characterization data.
+
+## 7. What data/code would you not publish? Why?
+
+I would not publish the climate data for my two field sites. I am not directly involved with these measurements; I simply access it from a government database.
