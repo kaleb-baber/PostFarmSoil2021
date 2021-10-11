@@ -4,7 +4,7 @@ This data charaterizes the soil for field P-8 at the Montana State University Po
 
 ## Sampling description
 
-Soils were sampled on May 7, 2021 using a Giddings hydraulic soil probe. One core per site was taken at a depth of 3 feet. Cores were split into subsamples of 0-6 inches, 6-24 inches, and 24-36 inches.
+Soils were sampled on May 7, 2021 using a Giddings hydraulic soil probe. One core per sample location was taken at a depth of 3 feet. Cores were split into subsamples of 0-6, 6-24, and 24-36 inches from the soil surface in the field.
 
 ## Analysis information
 
